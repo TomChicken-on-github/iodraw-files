@@ -16,7 +16,7 @@
         <mxCell id="bLY3lhZ0FP2n9Mb15Gix-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bLY3lhZ0FP2n9Mb15Gix-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bLY3lhZ0FP2n9Mb15Gix-5" value="UptimeKuma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
