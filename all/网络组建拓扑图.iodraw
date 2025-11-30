@@ -10,8 +10,8 @@
         <mxCell id="bLY3lhZ0FP2n9Mb15Gix-2" value="哪吒探針主控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bLY3lhZ0FP2n9Mb15Gix-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="bLY3lhZ0FP2n9Mb15Gix-3" value="XBoard主控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
